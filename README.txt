@@ -7,7 +7,7 @@ Content focussed on EU and more specific Holland - language is Dutch and English
 
 Tooling:
 
-    Hardware Dell G7
+    Hardware Dell G7 7700 i7 10th generation
     OS Linux Mint
     Template responsive Massively by @ajlkn http://html5up.net
     Language HTML5, CSS3
